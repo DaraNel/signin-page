@@ -1,5 +1,6 @@
 form {
     border: 3px solid #f1f1f1
+    margin-bottom: 50%
 
 }
 input [type=text], input [type=password] {
@@ -16,7 +17,7 @@ button {
     font-weight: bold;
     padding: 14px 20px;
     margin: 8px 0;
-    border: none;
+    border: none;ff
     cursor: pointer;
     width: 100%;
 }
@@ -58,7 +59,7 @@ hr {
 }
 
 button {
-  background-color: yellow;
+  background-color: brown;
   color: white;
   font-weight: bold;
   padding: 14px 20px;
